@@ -1,0 +1,7 @@
+title: servotiger4x20LCD
+project: servotiger4x20LCD
+author: John Plocher
+date: 2008
+status: released
+release: yes
+tags: [arduino, SPCoast]
